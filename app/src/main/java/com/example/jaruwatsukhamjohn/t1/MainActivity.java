@@ -55,6 +55,9 @@ public class MainActivity extends FragmentActivity  {
         mListView = (ListView) findViewById(R.id.drawer);
 
 
+
+        // TEST 1232312312
+        
         getActionBar().setDisplayHomeAsUpEnabled(true);
         getActionBar().setHomeButtonEnabled(true);
 
